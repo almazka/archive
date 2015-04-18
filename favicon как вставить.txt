@@ -1,0 +1,2 @@
+После title внутри head вставляем:
+<link rel="shortcut icon" href="адрес/favicon.png">

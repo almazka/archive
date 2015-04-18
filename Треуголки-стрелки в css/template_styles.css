@@ -1,0 +1,59 @@
+.arrow_catalog {
+	position: absolute;
+	top: 16px;
+	right: 21px;
+	border-left: 6px solid transparent;
+	border-right: 6px solid transparent;
+	border-top: 6px solid #5d7f13;
+	width: 0;
+	height: 0;
+	overflow: hidden;
+	box-shadow: 0px -1px 0px #974b27;
+}
+.orange_div {
+	background: #ace03c;
+	width: 200px;
+	margin-bottom: 30px;
+	position: relative;
+	padding: 8px 8px 8px 15px;
+	border-radius: 12px;
+}
+.help_content p {
+	float: left;
+	margin: 0;
+	padding-right: 40px;
+}
+.modal_help {
+	border-radius: 8px;
+	position: relative;
+	width: 284px;
+}
+.shell {
+	position: relative;
+}
+.shell i {
+	background: url(images/gulf-quoite.png);
+	width: 18px;
+	height: 13px;
+	display: block;
+	position: absolute;
+	top: -12px;
+	left: 130px;
+}
+.help_content {
+	padding: 11px 10px 18px 12px;
+	box-shadow: 1px 3px 5px #c0c0c0;
+	width: 260px;
+	border: 1px solid #cbcbcb;
+	background: #fff;
+	overflow: hidden;
+}
+.close_button {
+	display: block;
+	position: absolute;
+	right: 10px;
+}
+.center_block {
+	width: 500px;
+	margin: 0 auto;
+}
